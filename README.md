@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm Shreyasi! :3<br>As an inquisitive learner and coding enthusiast, I aim to create tools that enhance<br>efficiency in our lives, leveraging AI. I am currently enrolled as a second-year student<br>at SRMIST, and am keen on exploring trainee or internship roles, focusing on Data<br>Science and Machine Learning.<br><br>I also dabble in game-dev for fun! :D
 
 
